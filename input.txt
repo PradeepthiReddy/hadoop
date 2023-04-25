@@ -1,2 +1,5 @@
-this is hadoop 
-hadoop is intresting subject
+Hello
+
+this is mango season.
+
+mango is the king of fruits
